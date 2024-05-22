@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shakti</h1>
+<h1 align="center">Hi there👋, I'm Shakti</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el-47&label=Profile%20views&color=0e75b6&style=flat" alt="el-47" /> </p>
